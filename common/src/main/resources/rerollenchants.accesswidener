@@ -1,0 +1,8 @@
+accessWidener v1 named
+
+accessible field net/minecraft/world/inventory/EnchantmentMenu enchantmentSeed Lnet/minecraft/world/inventory/DataSlot;
+accessible field net/minecraft/world/entity/player/Player enchantmentSeed I
+accessible field net/minecraft/world/inventory/EnchantmentMenu enchantSlots Lnet/minecraft/world/Container;
+
+accessible field net/minecraft/client/gui/screens/inventory/AbstractContainerScreen leftPos I
+accessible field net/minecraft/client/gui/screens/inventory/AbstractContainerScreen topPos I
