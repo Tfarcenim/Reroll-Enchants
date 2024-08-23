@@ -1,6 +1,7 @@
 package tfar.rerollenchants;
 
 import net.fabricmc.api.ModInitializer;
+import tfar.rerollenchants.network.PacketHandler;
 
 public class RerollEnchantsFabric implements ModInitializer {
     
@@ -12,6 +13,7 @@ public class RerollEnchantsFabric implements ModInitializer {
         // project.
 
         // Use Fabric to bootstrap the Common mod.
+        PacketHandler.registerPackets();
         RerollEnchants.init();
     }
 }

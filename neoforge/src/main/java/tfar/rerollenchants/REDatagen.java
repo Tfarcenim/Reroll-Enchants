@@ -1,7 +1,7 @@
 package tfar.rerollenchants;
 
 import net.minecraft.data.DataGenerator;
-import net.minecraftforge.data.event.GatherDataEvent;
+import net.neoforged.neoforge.data.event.GatherDataEvent;
 
 public class REDatagen {
 

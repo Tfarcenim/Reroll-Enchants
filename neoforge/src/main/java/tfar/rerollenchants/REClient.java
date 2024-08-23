@@ -2,7 +2,7 @@ package tfar.rerollenchants;
 
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.client.gui.screens.inventory.EnchantmentScreen;
-import net.minecraftforge.client.event.ScreenEvent;
+import net.neoforged.neoforge.client.event.ScreenEvent;
 import tfar.rerollenchants.client.ModClient;
 
 public class REClient {
